@@ -15,4 +15,4 @@ User Control:
 Users can update or remove their profile picture at any time.
 
 Contact:
-If you have questions about this Privacy Policy, please contact us at: support@yourapp.com
+If you have questions about this Privacy Policy, please contact us at: amitranjan162@gmail.com
